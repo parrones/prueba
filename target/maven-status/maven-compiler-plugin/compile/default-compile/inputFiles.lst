@@ -1,0 +1,11 @@
+C:\workspace\springboot\src\main\java\com\mytest\springboot\infrastructure\entry\rest\UserController.java
+C:\workspace\springboot\src\main\java\com\mytest\springboot\domain\ports\primary\CreateUserUseCase.java
+C:\workspace\springboot\src\main\java\com\mytest\springboot\infrastructure\repository\jpa\JpaUserRepository.java
+C:\workspace\springboot\src\main\java\com\mytest\springboot\domain\ports\secondary\UserRepository.java
+C:\workspace\springboot\src\main\java\com\mytest\springboot\domain\model\User.java
+C:\workspace\springboot\src\main\java\com\mytest\springboot\App.java
+C:\workspace\springboot\src\main\java\com\mytest\springboot\domain\ports\primary\DeleteUserUseCase.java
+C:\workspace\springboot\src\main\java\com\mytest\springboot\infrastructure\repository\jpa\SpringCrudUserRepository.java
+C:\workspace\springboot\src\main\java\com\mytest\springboot\infrastructure\repository\jpa\User.java
+C:\workspace\springboot\src\main\java\com\mytest\springboot\domain\ports\primary\DeleteUserResponse.java
+C:\workspace\springboot\src\main\java\com\mytest\springboot\infrastructure\repository\jpa\JPAContext.java

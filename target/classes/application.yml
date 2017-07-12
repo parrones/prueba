@@ -1,0 +1,17 @@
+server:
+  port: 8080
+  contextPath: /springboot
+  
+spring:
+  profiles: local
+  datasource:
+    initialize: false
+    
+datasource:
+  mysql:
+    url: jdbc:mysql://localhost:3306/prueba?characterEncoding=UTF-8&amp;characterSetResults=UTF-8&amp;useCompression=true
+    testOnBorrow: true
+    validationQuery: SELECT 1
+    driver-class-name: com.mysql.jdbc.Driver
+    username: root
+    password: root

@@ -1,0 +1,9 @@
+com\mytest\springboot\domain\model\User.class
+com\mytest\springboot\infrastructure\repository\jpa\JpaUserRepository.class
+com\mytest\springboot\App.class
+com\mytest\springboot\infrastructure\repository\jpa\User.class
+com\mytest\springboot\domain\ports\primary\CreateUserUseCase.class
+com\mytest\springboot\infrastructure\repository\jpa\SpringCrudUserRepository.class
+com\mytest\springboot\infrastructure\entry\rest\UserController.class
+com\mytest\springboot\domain\ports\secondary\UserRepository.class
+com\mytest\springboot\infrastructure\repository\jpa\JPAContext.class
